@@ -1,2 +1,3 @@
 def greet():
-    print("welcome to my github");
+  print("welcome to my github");
+greet()
